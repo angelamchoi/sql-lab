@@ -29,9 +29,9 @@ We're going to use what we've learned already about querying a database using SQ
 
 6. Create `city`, `country` & `countrylanguage` tables and seed their data using the _import_ (`\i`) psql command:
 
-	```sql
+
 	\i world.sql
-	```
+
 
 ## Exercise
 
